@@ -18,7 +18,7 @@
 ### 🎯 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** — UNINTER (2026–2028)
-- 🐍 Estudando **Python** e **Java (POO)** para desenvolvimento de sistemas
+- 🐍 **Python** e **Java (POO)** para desenvolvimento de sistemas
 - 📊 Experiência prática com **Power BI**, **Excel Avançado** e **automação de processos**
 - 🗄️ Conhecimento em **MySQL** (modelagem MER, JOINs, Triggers, Functions)
 - 🤖 Explorando **automações com IA** aplicadas a sistemas reais de empresa
