@@ -140,23 +140,7 @@ Calculadora simples em terminal — meu primeiro projeto em Python, para pratica
 
 <br>
 
-```sql
--- 04 · estatisticas
-SELECT * FROM github_stats WHERE usuario = 'Peixoto2007';
-```
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Peixoto2007&show_icons=true&hide_title=true&hide_border=true&bg_color=0A1118&title_color=49D3C4&icon_color=E2A457&text_color=DBE6EC&ring_color=49D3C4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peixoto2007&layout=compact&hide_title=true&hide_border=true&bg_color=0A1118&title_color=49D3C4&text_color=DBE6EC&langs_count=6" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Peixoto2007&hide_border=true&background=0A1118&ring=49D3C4&fire=E2A457&currStreakLabel=49D3C4&sideLabels=DBE6EC&currStreakNum=DBE6EC&sideNums=DBE6EC&dates=7C8EA0" />
-
-</div>
-
-<br>
 
 ```sql
 -- 05 · contato
