@@ -24,9 +24,9 @@ SELECT * FROM perfil WHERE usuario = 'Dyego Alves';
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** — UNINTER · 2026–2028 (previsto)
 - 🧩 Hoje atuo como **Assistente de PCM**, organizando processos e montando dashboards para apoiar decisões da gerência
-- 🐍 Construo sistemas em **Python**, com foco crescente em **backend e banco de dados**
+- 🐍 Construo sistemas em **Java e JavaWeb and Python**, com foco crescente em **backend e banco de dados**
 - 🗄️ Modelo bancos em **MySQL**: MER, PK/FK, constraints, JOINs, functions e triggers
-- 📊 Uso **Power BI**, **Excel** e **Pandas** no dia a dia para transformar dado bruto em decisão
+- 📊 Uso **Cursor**, **Excel** e **Pandas** no dia a dia para transformar dado bruto em decisão
 - 🤖 Explorando automação e agentes de IA (Cursor) aplicados a sistemas reais
 - 📍 Uberlândia - MG, Brasil · 🌱 Buscando um estágio para aprender com um time de verdade
 
