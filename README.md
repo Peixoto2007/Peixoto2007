@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=49D3C4&center=true&vCenter=true&width=650&height=60&lines=SELECT+*+FROM+desenvolvedores;+--+Dyego+Alves;Backend+%C2%B7+Banco+de+Dados+%C2%B7+Automa%C3%A7%C3%A3o;WHERE+stack+IN+('Python'%2C+'MySQL'%2C+'IA');" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=49D3C4&center=true&vCenter=true&width=650&height=60&lines=SELECT+*+FROM+desenvolvedores;+--+Dyego+Alves;Backend+%C2%B7+Banco+de+Dados+%C2%B7+Automa%C3%A7%C3%A3o;WHERE+stack+IN+('Java'%'Python'%2C+'MySQL'%2C+'IA');" alt="Typing SVG" />
 
 <br>
 
